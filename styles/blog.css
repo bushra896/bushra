@@ -1,4 +1,10 @@
 div{
     background-color: bisque;
     padding: 10px;
+    margin-bottom: 5px;
+
+}
+#pic{
+    height: 50px;
+    width: 40px;
 }
